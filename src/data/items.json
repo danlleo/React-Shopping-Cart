@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Apple Watch",
+    "price": 399,
+    "imgUrl": "/imgs/applewatch.jpg"
+  },
+  {
+    "id": 2,
+    "name": "iMac",
+    "price": 1299,
+    "imgUrl": "/imgs/imac.webp"
+  },
+  {
+    "id": 3,
+    "name": "iPhone",
+    "price": 699,
+    "imgUrl": "/imgs/iphone.webp"
+  },
+  {
+    "id": 4,
+    "name": "MacBook",
+    "price": 1299,
+    "imgUrl": "/imgs/macbook.webp"
+  }
+]
